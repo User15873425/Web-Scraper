@@ -1,0 +1,52 @@
+The Mars InSight lander is equipped with a domed seismometer (left) and a probe for measuring heat flow 
+(right).Credit: NASA/JPL-Caltech
+
+NASA’s InSight mission has finally peered inside Mars — and discovered that the planet’s crust might be made 
+of three layers. This is the first time scientists have directly probed the inside of a planet other than 
+Earth, and will help researchers to unravel how Mars formed and evolved over time.
+
+Before this mission, researchers had measured only the interior structures of Earth and the Moon. “This 
+information was missing, until now, from Mars,” said Brigitte Knapmeyer-Endrun, a seismologist at the University of 
+Cologne in Germany, in a prerecorded talk played at the virtual American Geophysical Union meeting on 15 
+December. She declined an interview with Nature, saying that the work is under consideration for publication in a 
+peer-reviewed journal.
+
+‘Marsquakes’ reveal red planet’s hidden geology
+
+It is a major finding for InSight, which landed on Mars in November 2018 with a goal of working out the 
+planet’s internal structure1. The InSight lander squats near the Martian equator, on a smooth plain known as 
+Elysium Planitia, and uses an exquisitely sensitive seismometer to listen to geological energy thrumming through the 
+planet2. So far, the mission has detected more than 480 ‘marsquakes’, says Bruce Banerdt, the mission’s 
+principal investigator and a scientist at the Jet Propulsion Laboratory in Pasadena, California. Mars is less 
+seismically active than Earth, but more so than the Moon.
+
+Just as they do with earthquakes on Earth, seismologists are using marsquakes to map the red planet’s 
+interior structure. Seismic energy travels through the ground in two types of wave; by measuring the differences in 
+how those waves move, researchers can calculate where the planet’s core, mantle and crust begin and end, and 
+the general make-up of each one. Those fundamental geological layers reveal how the planet cooled and formed 
+billions of years ago at the fiery birth of the Solar System. Now, “we have enough data to start answering some 
+of these big questions”, says Banerdt.
+
+Earth’s continental crust is generally divided into sublayers of different types of rock. Researchers had 
+suspected, but didn't know for sure, that the Martian crust was also layered, says Justin Filiberto, a planetary 
+geologist at the Lunar and Planetary Institute in Houston, Texas. Now, InSight’s data show that it is made up 
+of either two or three layers.
+
+A three-layered crust would fit best with geochemical models3 and studies of Martian meteorites, says Julia 
+Semprich, a planetary scientist at the Open University in Milton Keynes, UK.
+
+‘Marsquake’ hunter prepares to land on the red planet
+
+Depending on whether the crust actually has two or three layers, it is either 20 or 37 kilometres thick, 
+Knapmeyer-Endrun said during her talk. That thickness probably varies at different locations around the planet, 
+but is likely to be no greater than 70 kilometres on average, she added. On Earth, the crustal thickness varies 
+from around 5 to 10 kilometres beneath the oceans, to around 40 to 50 kilometres beneath the continents.
+
+In the coming months, InSight scientists plan to report measurements taken even deeper in Mars, says Banerdt 
+— ultimately revealing information about the planet’s core and mantle.
+
+Along with listening to marsquakes, InSight’s other big scientific goal is to measure heat flow through the 
+Martian ground using a probe dubbed the mole. It was meant to bury itself deep in the soil, but has struggled 
+to do so — at one point even popping out of the ground altogether. The mole has finally managed to get itself 
+several centimetres deep, says Banerdt, and will try digging one final time in the coming weeks before giving 
+up. “We’re at what we consider to be the end game now,” he says.
